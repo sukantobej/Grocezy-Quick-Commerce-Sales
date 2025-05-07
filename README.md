@@ -1,6 +1,7 @@
-# 🛒 **Grocezy Quick Commerce Sales Dashboard**
+# 🛒 **Grocezy Quick Commerce Sales**
 
 📦 *Shop Smart. Shop Grocezy.*
+
 An interactive and visually compelling dashboard built to analyze and present key metrics from a quick commerce grocery dataset. The goal is to uncover actionable insights related to item performance, outlet characteristics, and sales distribution to support smarter retail strategy.
 
 ---
